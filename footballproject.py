@@ -9,7 +9,7 @@ import numpy as np
 
 
 # Load the dataset
-df = pd.read_csv(r"C:\Users\DELL\Documents\python_class_it\Projects\Match Prediction\readingmatch_stats.csv")
+df = pd.read_csv("readingmatch_stats.csv")
 
 
 #load the model
